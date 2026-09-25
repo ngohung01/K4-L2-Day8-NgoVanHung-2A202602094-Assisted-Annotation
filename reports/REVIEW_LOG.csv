@@ -1,0 +1,5 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,xe thứ 2 tối gần mép trái dưới ảnh,added,Thấy nguyên chiếc xe và đủ ranh giới theo GUIDELINE_LABEL.md
+2,frame_0099.jpg,xe ở gần dải phân cách tối gần giữa ảnh,added,Thấy nguyên chiếc xe và đủ ranh giới theo GUIDELINE_LABEL.md
+3,frame_0099.jpg,xe ở gần mép cuối trên đầu ảnh ,added,Thấy thân xe và đủ ranh giới theo GUIDELINE_LABEL.md
+4,frame_0099.jpg,xe ở làn phải  gần  cuối trên đầu ảnh ,updated,Thấy 2 xe bị gộp chung 1 object sửa tách ra theo GUIDELINE_LABEL.md
